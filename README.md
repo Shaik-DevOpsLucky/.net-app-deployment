@@ -99,4 +99,12 @@ http://3.236.242.210/
 ## ✅ Done!
 Your .NET/HTML static app is now successfully hosted on AWS Windows Server using IIS.
 <img width="1919" height="878" alt="Screenshot 2025-11-15 074826" src="https://github.com/user-attachments/assets/3791dc11-02e3-4533-af95-28bcbc2b67f3" />
+<img width="1919" height="880" alt="Screenshot 2025-11-15 074808" src="https://github.com/user-attachments/assets/7328b105-34ce-4e91-8298-b3518d5a945e" />
+<img width="1919" height="952" alt="Screenshot 2025-11-15 074747" src="https://github.com/user-attachments/assets/b58f316a-5ba8-4f35-a592-38cacf3b2ed2" />
+<img width="1919" height="1003" alt="Screenshot 2025-11-15 074543" src="https://github.com/user-attachments/assets/aaabf169-fc96-4109-bd80-81a1b65c15e7" />
+<img width="1918" height="1007" alt="Screenshot 2025-11-15 074708" src="https://github.com/user-attachments/assets/359cd1b2-0526-468f-b17d-8aedcfaa7567" />
+
+
+
+
 
