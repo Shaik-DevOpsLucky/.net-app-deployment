@@ -96,11 +96,5 @@ http://3.236.242.210/
 
 ---
 
-## 🎥 Reference Video
-A step-by-step tutorial video:  
-https://www.youtube.com/watch?v=CGT-DmpXP7s&list=PLooLFiqghdPsnTRlQD6j9T3I_X0bfh3kS&index=24
-
----
-
 ## ✅ Done!
 Your .NET/HTML static app is now successfully hosted on AWS Windows Server using IIS.
